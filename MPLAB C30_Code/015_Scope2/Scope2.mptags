@@ -1,0 +1,49 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+AN	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	56;"	v	line:56
+AN2lsb	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	285;"	l	line:285
+AN2msb	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	285;"	l	line:285
+AN3lsb	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	285;"	l	line:285
+AN3msb	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	285;"	l	line:285
+CODE_PROT_OFF	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	42;"	v	line:42
+FWDTEN_OFF	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	41;"	v	line:41
+HS	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	37;"	v	line:37
+PRIOSC_PLL	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	38;"	v	line:38
+PWRT_OFF	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	43;"	v	line:43
+_CMP3Interrupt	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	68;"	f	line:68	signature:(void)
+adc_index	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	60;"	v	line:60
+busy::LATEbits.LATE4	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	63;"	d	line:63	file:
+capture_data	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	297;"	f	line:297	signature:(void)
+capture_data	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	50;"	p	line:50	file:	signature:(void)
+capture_mode	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	57;"	v	line:57
+data	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	56;"	v	line:56
+data_index	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	58;"	v	line:58
+delay_cycles	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	59;"	v	line:59
+error	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	57;"	v	line:57
+fft	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	57;"	v	line:57
+get_fft1_data	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	450;"	f	line:450	signature:(void)
+get_fft1_data	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	53;"	p	line:53	file:	signature:(void)
+get_fft2_data	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	464;"	f	line:464	signature:(void)
+get_fft2_data	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	54;"	p	line:54	file:	signature:(void)
+get_normal_data	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	432;"	f	line:432	signature:(void)
+get_normal_data	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	52;"	p	line:52	file:	signature:(void)
+hw_reset::LATEbits.LATE5	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	64;"	d	line:64	file:
+input_string	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	56;"	v	line:56
+main	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	127;"	f	line:127
+readVref	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	282;"	f	line:282	signature:(void)
+readVref	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	49;"	p	line:49	file:	signature:(void)
+sampling_mode	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	57;"	v	line:57
+sampling_rate	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	57;"	v	line:57
+set_sampling	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	381;"	f	line:381	signature:(unsigned char rate)
+set_sampling	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	51;"	p	line:51	file:	signature:(unsigned char rate)
+sliding_delay	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	59;"	v	line:59
+sliding_delay_cycles	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	60;"	v	line:60
+temp	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	433;"	l	line:433
+temp	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	451;"	l	line:451
+temp	C:\Documents and Settings\ajoy\My Documents\Aj-PIC\029_Aj_SimplerScope\015_Scope2\Scope2.c	465;"	l	line:465

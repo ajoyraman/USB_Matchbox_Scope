@@ -1,0 +1,346 @@
+VERSION
+8
+
+COMMSETTINGS
+0
+COM14
+COM1
+115200
+2
+0
+4
+0
+0
+
+COMMDISPLAY
+0
+
+SEND
+0
+Test LED
+74
+0
+5
+
+SEND
+1
+Gain 1/2/5 , PGA1
+47 01 01
+0
+5
+
+SEND
+2
+Gain 1/2/5  PGA2 
+47 01 02
+0
+5
+
+SEND
+3
+"O"Offset CH1  
+4F 02 66
+0
+5
+
+SEND
+4
+"o" Offset CH2 
+6F 02 66
+0
+5
+
+SEND
+5
+Trig Auto
+54 00
+0
+5
+
+SEND
+6
+Trig CH1
+54 01
+0
+5
+
+SEND
+7
+Trig CH2
+54 02
+0
+5
+
+SEND
+8
+Trig Level Ch1 50%
+4C 02 00
+0
+1
+
+SEND
+9
+Trig Level  Ch2 50%
+6C 02 80
+0
+5
+
+SEND
+10
+Ch1 Trig +/- Edge  0/1
+50 00
+0
+5
+
+SEND
+11
+Ch2 Trig +/- Edge 0/1
+70 01
+0
+5
+
+SEND
+12
+Set FFT Normal   0/1/2  N/Ch1/Ch2
+46 00
+0
+5
+
+SEND
+13
+Set FFT CH1
+46 01
+0
+5
+
+SEND
+14
+Set FFT CH2 
+46 02
+0
+5
+
+SEND
+15
+Sampling Rate 1 set 10 kHz
+53 01
+0
+5
+
+SEND
+16
+Sampling Rate 2  set  5kHz
+53 02
+0
+5
+
+SEND
+17
+Sampling Rate 3  set 2kHz
+53 03
+0
+5
+
+SEND
+18
+Sampling Rate 4 set 1kHz
+53 04
+0
+5
+
+SEND
+19
+Sampling Rate 5  set 500Hz
+53 05
+0
+5
+
+SEND
+20
+Sampling Rate 6  set 200Hz
+53 06
+0
+5
+
+SEND
+21
+Sampling Rate 7 set 100Hz
+53 07
+0
+5
+
+SEND
+22
+Sampling Rate 8 set 50Hz
+53 08
+0
+5
+
+SEND
+23
+Sampling Rate 9 set 20Hz
+53 09
+0
+5
+
+SEND
+24
+Sampling Rate 10 set 10Hz
+53 0A
+0
+5
+
+SEND
+25
+Sampling Rate 11 set 5Hz
+53 0B
+0
+5
+
+SEND
+26
+Sampling Rate 12 Set 2Hz
+53 0C
+0
+5
+
+SEND
+27
+Sampling Rate 13 set 1Hz
+53 0D
+0
+5
+
+SEND
+28
+Sampling Rate 14 set 0.5Hz
+53 0E
+0
+5
+
+SEND
+29
+Sampling Rate 15 set 0.2Hz
+53 0F
+0
+5
+
+SEND
+30
+Sampling Rate 16 set 0.1Hz
+53 10
+0
+5
+
+SEND
+31
+Sampling Rate 17 set 20kHz
+53 11
+0
+5
+
+SEND
+32
+Sampling Rate 18 set 50kHz
+53 12
+0
+5
+
+SEND
+33
+Sampling Rate 19 set 100kHz
+53 13
+0
+5
+
+SEND
+34
+Sampling Rate 20 set 200kHz
+53 14
+0
+5
+
+SEND
+35
+Capture
+43
+0
+5
+
+SEND
+36
+Abort
+41
+0
+5
+
+SEND
+37
+Read Ch1 Data 200 Even
+44 01
+0
+5
+
+SEND
+38
+Read Ch2 Data 200 Odd
+44 02
+0
+5
+
+SEND
+39
+Read FFT/CH1 First 200  Data
+44 03
+0
+5
+
+SEND
+40
+Read FFT/CH2 Second 200
+44 04
+0
+5
+
+SEND
+41
+"R" Read VRef
+52
+0
+5
+
+SEND
+42
+Fake Sequence
+58
+0
+5
+
+SEND
+43
+Read BUSY
+42
+0
+5
+
+SEND
+44
+Ready Response
+41 6A 53 63 6F 70 65 52 65 61 64 79 0A 0D
+0
+5
+
+SEND
+45
+Identify
+49
+0
+5
+
+SEND
+46
+Compensate OSC1
+63 01
+0
+5
+

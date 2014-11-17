@@ -1,0 +1,20 @@
+20Mbps 0.05us/sample (ETS)
+10Mbps 0.10us/sample (ETS)
+5Mbps  0.20us/sample (ETS)
+2Mbps  0.50us/sample (ETS)
+1Mbps   1.0us/sample (ETS)
+500kbps 2.0us/sample (ETS)
+200kbps 5.0us/sample (ETS)
+100kbps  10us/sample
+50kbps   20us/sample
+20kbps   50us/sample
+10kbps  100us/sample
+5kbps   200us/sample
+2kbps   500us/sample
+1kbps   1.0ms/sample
+500Hz   2.0ms/sample
+200Hz   5.0ms/sample
+100Hz    10ms/sample 
+50Hz     20ms/sample
+20Hz     50ms/sample
+10Hz    100ms/sample 
